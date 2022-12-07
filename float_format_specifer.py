@@ -1,0 +1,31 @@
+# s=9
+# print(s,type(s))
+# print(s)
+# print('the value of s is %d'%s)
+# print('the value of s is %f'%s)
+# print('the value of s is %s'%s)
+# # print('the value of s is %.1f'%s)
+
+# s=4.6
+# print(s,type(s))
+# print(s)
+# print('the value of s is %d'%s)
+# print('the value of s is %f'%s)
+# print('the value of s is %s'%s)
+# print('the value of s is %.1f'%s)
+# print('the value of s is %.2f'%s)
+# print('the value of s is %1f'%s)
+# print('the value of s is %.6f'%s)
+
+s=4.0+0.3
+print(s,type(s))
+print(s)
+print('the value of s is %d'%s)
+print('the value of s is %f'%s)
+print('the value of s is %s'%s)
+print('the value of s is %.1f'%s)
+print('the value of s is %.2f'%s)
+print('the value of s is %1f'%s)
+print('the value of s is %3f'%s)
+print('the value of s is %.6f'%s)
+print('the value of s is %.5f'%s)
